@@ -1,5 +1,5 @@
 # 🚀 7-Month Senior Frontend Engineer — Product Company Crack Plan
-### HCLTech → Product Company | Mar 8 – Oct 8, 2025
+### Current Company → Product Company | Mar 8 – Oct 8, 2025
 
 ---
 
@@ -293,7 +293,7 @@ Solve any Medium LeetCode in under 25 min. Complete any machine coding round in 
 > **Why:** You now have 6 strong projects. Engineers who apply with a compelling portfolio get callbacks 3× faster. Blog posts about what you built signal senior thinking to hiring managers.
 
 ### 🎯 Milestone
-2+ offers in hand by Oct 8. HCLTech → Product Company in 7 months through deliberate practice.
+2+ offers in hand by Oct 8. Current Company → Product Company in 7 months through deliberate practice.
 
 ---
 
@@ -328,9 +328,9 @@ Solve any Medium LeetCode in under 25 min. Complete any machine coding round in 
 - **Machine coding > DSA for Senior FE.** At Razorpay, Groww, BrowserStack — machine coding is weighted heavier than LeetCode for Senior roles.
 - **Neetcode 150, not 500 random.** Pattern recognition beats random grinding every time.
 - **Deploy everything. No exceptions.** "I built it locally" does not exist. Vercel is free.
-- **Your HCLTech Senior title is leverage.** DM engineers directly on LinkedIn. Skip job portals when possible.
+- **Your Current Company Senior title is leverage.** DM engineers directly on LinkedIn. Skip job portals when possible.
 - **Document your Lighthouse scores.** Put before/after numbers in your READMEs. Numbers make hiring managers stop scrolling.
 
 ---
 
-*Built for: Mar 8 – Oct 8, 2025 | ~630 hours total | Current role: Senior FE @ HCLTech*
+*Built for: Mar 8 – Oct 8, 2025 | ~630 hours total | Current role: Senior FE @ Current Company*
