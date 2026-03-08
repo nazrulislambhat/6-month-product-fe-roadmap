@@ -401,7 +401,7 @@ const roadmap = [
       why: 'You now have 6 strong projects. Engineers who apply with a compelling portfolio get callbacks 3× faster. Your blog posts about what you built signal senior thinking to hiring managers.',
     },
     milestone:
-      '2+ offers in hand by Oct 8. HCLTech → Product Company in 7 months through deliberate practice.',
+      '2+ offers in hand by Oct 8. Current Company → Product Company in 7 months through deliberate practice.',
   },
 ];
 
@@ -619,7 +619,7 @@ export default function Roadmap() {
                   marginBottom: 3,
                 }}
               >
-                HCLTech Senior FE → Product Company
+                Current Company Senior FE → Product Company
               </div>
               <div
                 style={{
@@ -1301,7 +1301,7 @@ export default function Roadmap() {
                 "'I built it locally' does not exist. Every project needs a live Vercel URL. Free. No excuses.",
               ],
               [
-                'Your HCLTech Senior title is leverage',
+                'Your Current Company Senior title is leverage',
                 "You're not a fresher. DM engineers on LinkedIn directly, skip portals when possible. Senior tag opens doors.",
               ],
             ].map(([title, desc], i) => (
