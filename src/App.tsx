@@ -580,6 +580,7 @@ export default function Roadmap() {
       style={{
         minHeight: '100vh',
         background: T.bg,
+        width: '100vw',
         color: T.text,
         fontFamily: "'IBM Plex Mono','Fira Code',monospace",
         transition: 'background 0.3s, color 0.3s',
